@@ -4,12 +4,3 @@
 
 
 
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="510em" src="https://github-readme-stats.vercel.app/api?username=Augustocoder&show_icons=true&theme=merko" alt="Augustocoder stats"/>
-<img width="510em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustocoder&layout=compact&theme=merko" alt="Augustocoder most languages"/>
-</p>
-
-
