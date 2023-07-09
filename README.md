@@ -1,14 +1,9 @@
-## Hi! 👋 I'm Augusto!
 
+# Olá, eu sou o Augusto (Hello! I'm Augusto) 👋
+Trabalho atualmente como autonômo, contudo adoro mexer com sistemas, codificação, criptografia, vulnerabilidades e entre outros! :sparkling_heart: :dizzy:
 
-<div style="display: block">
-<img src="https://i.giphy.com/media/JcFUHp7b9mnj5a01AN/giphy.webp" style="width: 100%; height: 70%;">
-</div>
-<h1>Tecnologia usadas por mim:</h1>
-<div style="display: flex; justify-content: space-around">
-<img style="height: 5%; width: 5% " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img style="height: 5%; width: 5% " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img style="height: 5%; width: 5% " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img style="height: 5%; width: 5% " src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+## 🛠 Principais Habilidades
+Javascript, HTML, CSS, PHP e Node.js
 
-</div>
+<img src="https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gif">
+
